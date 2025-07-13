@@ -1,0 +1,10 @@
+
+
+User-agent: LinkedInBot
+User-agent: IndeedBot
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Sitemap: https://www.jobsagent.org/sitemap.xml

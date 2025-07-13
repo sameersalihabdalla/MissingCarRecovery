@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>أنت غير متصل</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      text-align: center;
+      padding: 50px 20px;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: auto;
+    }
+
+    img {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #d9534f;
+    }
+
+    p {
+      font-size: 16px;
+      margin-bottom: 30px;
+    }
+
+    .logo {
+      margin-top: 40px;
+      font-weight: bold;
+      color: #007bff;
+    }
+
+    .retry-btn {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .retry-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="img/loader.png" alt="JobsAgent Logo" />
+    <h1>أنت غير متصل بالإنترنت</h1>
+    <p>يبدو أنك فقدت الاتصال. تأكد من اتصالك بالإنترنت ثم أعد المحاولة.</p>
+    <button class="retry-btn" onclick="location.reload()">🔄 إعادة المحاولة</button>
+    <div class="logo">www.JobsAgent.org</div>
+  </div>
+</body>
+</html>

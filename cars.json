@@ -1,0 +1,232 @@
+[
+  {
+    "brand": "Toyota",
+    "country": "اليابان",
+    "models": ["Corolla", "Camry", "Yaris", "Land Cruiser", "Hilux", "RAV4", "C-HR"]
+  },
+  {
+    "brand": "Honda",
+    "country": "اليابان",
+    "models": ["Civic", "Accord", "CR-V", "Pilot", "Odyssey"]
+  },
+  {
+    "brand": "Nissan",
+    "country": "اليابان",
+    "models": ["Altima", "Maxima", "Rogue", "Titan", "Sentra"]
+  },
+  {
+    "brand": "Mazda",
+    "country": "اليابان",
+    "models": ["Mazda3", "Mazda6", "CX-5", "CX-9", "MX-5 Miata"]
+  },
+  {
+    "brand": "Subaru",
+    "country": "اليابان",
+    "models": ["Outback", "Forester", "Crosstrek", "Impreza", "Legacy"]
+  },
+  {
+    "brand": "Mitsubishi",
+    "country": "اليابان",
+    "models": ["Outlander", "Mirage", "Eclipse Cross"]
+  },
+  {
+    "brand": "Hyundai",
+    "country": "كوريا الجنوبية",
+    "models": ["Accent", "Elantra", "Tucson", "Santa Fe", "i10", "i20", "Kona"]
+  },
+  {
+    "brand": "Kia",
+    "country": "كوريا الجنوبية",
+    "models": ["Forte", "K5", "Sportage", "Sorento", "Telluride"]
+  },
+  {
+    "brand": "Genesis",
+    "country": "كوريا الجنوبية",
+    "models": ["G70", "G80", "GV70", "GV80"]
+  },
+  {
+    "brand": "BYD",
+    "country": "الصين",
+    "models": ["Han", "Tang", "Seal", "Dolphin", "Atto 3"]
+  },
+  {
+    "brand": "Geely",
+    "country": "الصين",
+    "models": ["Geely Boyue", "Geely Xingyue", "Lynk & Co 01"]
+  },
+  {
+    "brand": "Chery",
+    "country": "الصين",
+    "models": ["Tiggo 7", "Tiggo 8", "Exeed VX"]
+  },
+  {
+    "brand": "Great Wall Motors (GWM)",
+    "country": "الصين",
+    "models": ["Haval H6", "Tank 300", "Ora Good Cat"]
+  },
+  {
+    "brand": "Nio",
+    "country": "الصين",
+    "models": ["ES6", "ES8", "ET5", "ET7"]
+  },
+  {
+    "brand": "Xpeng",
+    "country": "الصين",
+    "models": ["P5", "P7", "G3", "G9"]
+  },
+  {
+    "brand": "Li Auto",
+    "country": "الصين",
+    "models": ["L7", "L8", "L9"]
+  },
+  {
+    "brand": "Tata Motors",
+    "country": "الهند",
+    "models": ["Nexon", "Punch", "Tiago", "Harrier", "Safari"]
+  },
+  {
+    "brand": "Mahindra & Mahindra",
+    "country": "الهند",
+    "models": ["Thar", "XUV700", "Scorpio"]
+  },
+  {
+    "brand": "Volkswagen",
+    "country": "ألمانيا",
+    "models": ["Golf", "Passat", "Tiguan", "Polo", "Touareg"]
+  },
+  {
+    "brand": "Audi",
+    "country": "ألمانيا",
+    "models": ["A3", "A4", "A6", "Q5", "Q7"]
+  },
+  {
+    "brand": "BMW",
+    "country": "ألمانيا",
+    "models": ["3 Series", "5 Series", "X3", "X5", "iX"]
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "country": "ألمانيا",
+    "models": ["C-Class", "E-Class", "S-Class", "GLC", "GLE"]
+  },
+  {
+    "brand": "Porsche",
+    "country": "ألمانيا",
+    "models": ["911", "Cayenne", "Macan", "Taycan"]
+  },
+  {
+    "brand": "Opel",
+    "country": "ألمانيا",
+    "models": ["Corsa", "Astra", "Mokka", "Grandland"]
+  },
+  {
+    "brand": "Renault",
+    "country": "فرنسا",
+    "models": ["Clio", "Megane", "Captur", "Kadjar", "Zoe"]
+  },
+  {
+    "brand": "Peugeot",
+    "country": "فرنسا",
+    "models": ["208", "308", "2008", "3008"]
+  },
+  {
+    "brand": "Citroën",
+    "country": "فرنسا",
+    "models": ["C3", "C4", "C5 Aircross"]
+  },
+  {
+    "brand": "Bugatti",
+    "country": "فرنسا",
+    "models": ["Chiron", "Veyron"]
+  },
+  {
+    "brand": "Fiat",
+    "country": "إيطاليا",
+    "models": ["500", "Panda", "Tipo"]
+  },
+  {
+    "brand": "Ferrari",
+    "country": "إيطاليا",
+    "models": ["Roma", "296 GTB", "SF90 Stradale"]
+  },
+  {
+    "brand": "Lamborghini",
+    "country": "إيطاليا",
+    "models": ["Huracán", "Revuelto", "Urus"]
+  },
+  {
+    "brand": "Maserati",
+    "country": "إيطاليا",
+    "models": ["Ghibli", "Quattroporte", "Levante", "MC20"]
+  },
+  {
+    "brand": "Alfa Romeo",
+    "country": "إيطاليا",
+    "models": ["Giulia", "Stelvio", "Tonale"]
+  },
+  {
+    "brand": "Pagani",
+    "country": "إيطاليا",
+    "models": ["Huayra", "Zonda"]
+  },
+  {
+    "brand": "Volvo",
+    "country": "السويد",
+    "models": ["S60", "XC60", "XC90", "C40 Recharge"]
+  },
+  {
+    "brand": "Koenigsegg",
+    "country": "السويد",
+    "models": ["Jesko", "Gemera"]
+  },
+  {
+    "brand": "Rolls-Royce",
+    "country": "المملكة المتحدة",
+    "models": ["Phantom", "Ghost", "Cullinan"]
+  },
+  {
+    "brand": "Bentley",
+    "country": "المملكة المتحدة",
+    "models": ["Continental GT", "Flying Spur", "Bentayga"]
+  },
+  {
+    "brand": "Aston Martin",
+    "country": "المملكة المتحدة",
+    "models": ["DB11", "Vantage", "DBX"]
+  },
+  {
+    "brand": "Jaguar",
+    "country": "المملكة المتحدة",
+    "models": ["XE", "XF", "F-Pace", "I-Pace"]
+  },
+  {
+    "brand": "Land Rover",
+    "country": "المملكة المتحدة",
+    "models": ["Discovery", "Range Rover", "Defender", "Range Rover Sport"]
+  },
+  {
+    "brand": "Mini",
+    "country": "المملكة المتحدة",
+    "models": ["Cooper", "Countryman"]
+  },
+  {
+    "brand": "McLaren",
+    "country": "المملكة المتحدة",
+    "models": ["Artura", "750S"]
+  },
+  {
+    "brand": "Skoda",
+    "country": "جمهورية التشيك",
+    "models": ["Octavia", "Superb", "Karoq", "Kodiaq"]
+  },
+  {
+    "brand": "SEAT",
+    "country": "إسبانيا",
+    "models": ["Leon", "Ibiza", "Ateca"]
+  },
+  {
+    "brand": "Lada",
+    "country": "روسيا",
+    "models": ["Granta", "Vesta", "Niva Travel"]
+  }
+]

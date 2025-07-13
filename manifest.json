@@ -1,0 +1,15 @@
+{
+  "name": "رجعناها",
+  "short_name": "رجعناها",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#d8841a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
