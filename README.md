@@ -1,69 +1,68 @@
 # MissingCarRecovery 🚗🔎
 
-نظام برمجي مفتوح المصدر يساعد الأفراد والجهات الأمنية في الإبلاغ والبحث عن السيارات المفقودة باستخدام تقنيات الويب الحديثة (PHP وBootstrap).
+An open-source software system that helps individuals and security authorities report and search for missing vehicles using modern web technologies (PHP and Bootstrap).
 
 ---
 
-## 🎯 الغرض من المشروع
+## 🎯 Project Purpose
 
-- تسهيل الإبلاغ عن السيارات المسروقة أو المفقودة
-- عرض بيانات البلاغات بشكل منظم وقابل للبحث
-- المساهمة المجتمعية في الإبلاغ أو التعرّف على السيارات
-- إنشاء قاعدة بيانات قابلة للتطوير والتكامل مستقبليًا مع أنظمة إلكترونية
-
----
-
-## 📸 صور من المشروع
-
-### 1️⃣ شاشة تسجيل البلاغ
-![تسجيل البلاغ](screenshots/1.png)
-
-### 2️⃣ شاشة عرض السيارات المُبلغ عنها
-![عرض السيارات](screenshots/2.png)
-
-### 3️⃣ صفحة البحث حسب رقم اللوحة أو المدينة
-![نموذج البحث](screenshots/3.png)
-
-### 4️⃣ تفاصيل السيارة المفقودة
-![تفاصيل البلاغ](screenshots/4.png)
-
-### 5️⃣ نموذج التحقق من بلاغ السيارة
-![التحقق](screenshots/5.png)
-
-### 6️⃣ لوحة الإدارة وإدارة البلاغات
-![لوحة الإدارة](screenshots/6.png)
-
-### 7️⃣ شاشة الإحصائيات والتقارير
-![الإحصائيات](screenshots/7.png)
+- Simplify the reporting of stolen or missing vehicles  
+- Display report data in an organized and searchable format  
+- Enable community participation in reporting or identifying vehicles  
+- Build a scalable database with future integration potential for electronic systems  
 
 ---
 
-## ⚙️ التشغيل السريع
+## 📸 Project Screenshots
 
-1. حمّل المشروع إلى سيرفر محلي (مثل XAMPP أو WAMP)
-2. أنشئ قاعدة بيانات باسم
-3. عدّل بيانات الاتصال بقاعدة البيانات 
-4. افتح `index.php` من المتصفح لبدء التشغيل
+### 1️⃣ Report Submission Screen  
+![Report Submission](screenshots/1.png)
+
+### 2️⃣ Reported Vehicles Display  
+![Reported Vehicles](screenshots/2.png)
+
+### 3️⃣ Search Page by Plate Number or City  
+![Search Form](screenshots/3.png)
+
+### 4️⃣ Missing Vehicle Details  
+![Report Details](screenshots/4.png)
+
+### 5️⃣ Vehicle Report Verification Form  
+![Verification](screenshots/5.png)
+
+### 6️⃣ Admin Dashboard and Report Management  
+![Admin Panel](screenshots/6.png)
+
+### 7️⃣ Statistics and Reports Screen  
+![Statistics](screenshots/7.png)
 
 ---
 
-## 🔧 التقنيات المستخدمة
+## ⚙️ Quick Setup
 
-- PHP
-- Bootstrap
-- JavaScript
-- MySQL
-
----
-
-## 📜 الرخصة
-
-هذا المشروع متاح بموجب [MIT License](LICENSE)، مما يسمح باستخدامه وتعديله بحرّية.
+1. Upload the project to a local server (e.g., XAMPP or WAMP)  
+2. Create a database with the required name  
+3. Update the database connection settings  
+4. Open `index.php` in your browser to start the application  
 
 ---
 
-## 🤝 المساهمة
+## 🔧 Technologies Used
 
-مرحبًا بجميع المطورين والمصممين والمساهمين!  
-يمكنك فتح "Issue" أو إرسال "Pull Request" لأي تحسين أو ميزة جديدة.
+- PHP  
+- Bootstrap  
+- JavaScript  
+- MySQL  
 
+---
+
+## 📜 License
+
+This project is available under the [MIT License](LICENSE), allowing free use and modification.
+
+---
+
+## 🤝 Contribution
+
+All developers, designers, and contributors are welcome!  
+Feel free to open an Issue or submit a Pull Request for any improvement or new feature.
